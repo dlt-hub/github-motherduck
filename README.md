@@ -1,6 +1,6 @@
 # GitHub -> MotherDuck pipeline  
   
-This is a repo accompanying [this](link-to-blog) blog.  
+This is a repo accompanying [this](https://dlthub.com/docs/blog/dlt-motherduck-demo) blog.  
   
 The GitHub API exists as a [verified source for dlt](https://dlthub.com/docs/dlt-ecosystem/verified-sources/github). Using the GitHub verified source, you can load data on issues, pull requests, reactions, and comments from any GitHub repository. 
   
